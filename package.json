@@ -23,7 +23,5 @@
     "url": "https://github.com/JS-Void-Packages/void-jsonc/issues"
   },
   "homepage": "https://github.com/JS-Void-Packages/void-jsonc#readme",
-  "dependencies": {
-    "void-jsonc": "^0.0.2"
-  }
+  "dependencies": {}
 }
