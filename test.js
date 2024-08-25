@@ -1,3 +1,3 @@
-let JSONC = require('./jsonc-parser')
+let JSONC = require('./jsonc-parser');
 
-console.log(JSONC.parse('test.jsonc'))
+console.log(JSONC.parse('test.jsonc'));

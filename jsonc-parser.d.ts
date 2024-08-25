@@ -1,1 +1,1 @@
-export function parse(file:String, parser?:(json:string) => Object):Object
+export function parse(file:String):Object
