@@ -1,6 +1,6 @@
 {
   "name": "void-jsonc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Standalone JSONC/CJSON Parser in js",
   "main": "jsonc-parser.js",
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "jsonc",
+    "jsonc parser",
     "cson",
     "json",
     "json parser",
@@ -22,6 +23,5 @@
   "bugs": {
     "url": "https://github.com/JS-Void-Packages/void-jsonc/issues"
   },
-  "homepage": "https://github.com/JS-Void-Packages/void-jsonc#readme",
-  "dependencies": {}
+  "homepage": "https://github.com/JS-Void-Packages/void-jsonc#readme"
 }
